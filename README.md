@@ -1,4 +1,6 @@
 <a href="mailto:mindaugaskarla@gmail.com" target="_blank" rel="nofollow"><img align="right" alt="Mindaugas's Karla email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg" /></a><a href="https://www.linkedin.com/in/mindaugas-karla/" target="_blank" rel="nofollow"><img align="right" alt="Mindauga's Karla Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/karliukena/" target="_blank" rel="nofollow"><img align="right" alt="Mindauga's Karla Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
 
 
 ### Hi there, welcome to my Github! 👋
@@ -15,6 +17,14 @@ One of the many aspects I have enjoyed about my job is the ability to manage my 
 - Git
 
 
+### 🌱 I'm currently learning
+- React.js
+- Angular.js
+- Python
+
+I’m looking to collaborate with people who are enthusiastic about Web Development, Javascript, Data Mining and related areas. 
+
+Looking for opportunities, to be a part of exciting projects, digital marketing and software development.
 
 
 
