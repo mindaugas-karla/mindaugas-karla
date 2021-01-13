@@ -1,3 +1,6 @@
+<a href="mailto:mindaugaskarla@gmail.com" target="_blank" rel="nofollow"><img align="right" alt="Mindaugas's Karla email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/gmail.svg" /></a><a href="https://www.linkedin.com/in/mindaugas-karla/" target="_blank" rel="nofollow"><img align="right" alt="Mindauga's Karla Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+
+
 ### Hi there, welcome to my Github! 👋
 
 One of the many aspects I have enjoyed about my job is the ability to manage my time by myself. If you asked me what I could do without being paid, it would be something that would leave some mark on the world. Not necessarily major impact but even a small achievement would be great. We can make the world a better place by helping each other. Working as a community, we are bound to achieve more and, therefore, provide more.
